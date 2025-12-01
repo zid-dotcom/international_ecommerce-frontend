@@ -143,11 +143,11 @@ export default function Home() {
             />
           </div>
 
-          <div className="absolute left-6 bottom-6 bg-white/90 backdrop-blur rounded-2xl p-4 shadow-md border">
+          {/* <div className="absolute left-6 bottom-6 bg-white/90 backdrop-blur rounded-2xl p-4 shadow-md border">
             <div className="text-sm text-gray-500">Trending</div>
             <div className="font-semibold">Raynott Classic Watch</div>
             <div className="text-xs text-gray-500 mt-1">Minimalist design · Worldwide shipping</div>
-          </div>
+          </div> */}
         </div>
       </section>
 
